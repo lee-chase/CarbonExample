@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@carbon/grid": "11.5.0",
+    "@carbon/icons-react": "11.7.0",
+    "@carbon/react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "name": "be5qgx",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

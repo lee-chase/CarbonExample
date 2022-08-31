@@ -1,0 +1,14 @@
+.app-content {
+  min-height: calc(100vh - 3rem);
+}
+
+.row-with-cols-example {
+  width: 100%;
+  height: 100px;
+  background-color: yellow;
+}
+
+.cols-example:nth-child(1) {
+  height: 100%;
+  background-color: blue;
+}
